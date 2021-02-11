@@ -1,2 +1,0 @@
-# maestria
-mastria
